@@ -1,0 +1,9 @@
+
+DROP TABLE IF EXISTS parents;
+DROP TABLE IF EXISTS dogs;
+DROP TABLE IF EXISTS sizes;
+DROP TABLE IF EXISTS size_of_dogs;
+
+DROP TABLE IF EXISTS by_parent_height;
+DROP TABLE IF EXISTS sentences;
+
